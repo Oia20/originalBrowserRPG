@@ -5,4 +5,4 @@ Link to my updated version using react: https://oia20.github.io/browserRPG/
 
 Link to updated versions repo: https://github.com/Oia20/browserRPG
 
-Link to the original as it was on FCC: 
+Link to the original as it was on FCC: https://oia20.github.io/originalBrowserRPG/
